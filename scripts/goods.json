@@ -1,0 +1,38 @@
+{
+    "1234": 
+    {
+        "name": "Ромашки",
+        "cost": 340,
+        "description": "Ромашки",
+        "order": 1,
+        "img": "flower1.png"
+    },
+    
+    "1235": 
+    {
+        "name": "Васильки",
+        "cost": 250,
+        "description": "Васильки",
+        "order": 3,
+        "img": "flower2.png"
+    },
+    
+    "1236": 
+    {
+        "name": "Хризантемы",
+        "cost": 600,
+        "description": "Хризантемы",
+        "order": 2,
+        "img": "flower3.png"
+    },
+    
+    "1237": 
+    {
+        "name": "Букет роз",
+        "cost": 430,
+        "description": "Букет роз",
+        "order": 4,
+        "img": "flower4.png"
+    }
+
+}
